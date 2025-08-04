@@ -3,7 +3,7 @@
 I'm a PhD graduate working at the intersection of ML, physics, and maths.
 
 - 🔬 Researching Theoretical ML & its intersection with Neuroscience
-- 🏛️ 📍 Based in Sydney
+- 📍 Based in Sydney
 
 ## 📊 GitHub Stats
 
