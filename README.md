@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kevin (CKQu1)
 
-I'm a PhD graduate working at the intersection of ML, physics, and maths.
+I'm a Postdoc working at the intersection of ML, physics, and maths.
 
 - 🔬 Researching Theoretical ML & its intersection with Neuroscience
 - 📍 Based in Sydney, Australia
