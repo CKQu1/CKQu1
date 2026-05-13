@@ -3,7 +3,7 @@
 I'm a Postdoc working at the intersection of ML, physics, and maths.
 
 - 🔬 Researching Theoretical ML & its intersection with Neuroscience
-- 📍 Based in Sydney, Australia
+- 📍 Based in Waterloo, Ontario
 
 ## 📊 GitHub Stats
 
